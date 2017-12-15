@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title> </title>
@@ -6,7 +6,7 @@
 <center><body style="background-color: #FFFF00">
 
  <br>
- <h1 style="border: 2px solid Tomato">P�nar MUTLU<br>152204012</h1>
+ <h1 style="border: 2px solid Tomato">Pınar MUTLU<br>152204012</h1>
 
 <hr>
 <a style="font-size: 30px;text-decoration: none;" href="index.html"> 
